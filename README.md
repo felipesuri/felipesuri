@@ -1,16 +1,17 @@
 ### Hey, eu sou felipesuri! 👋
 
-💻 Estagiário na [@sheepcode-in](https://www.linkedin.com/company/sheepcode-in/) <br>
-🇧🇷 Vivendo em Santana de Parnaíba, São Paulo, Brasil <br>
+💻 Trabalho atualmente como Freelancer.
 
-### Com o que estou trabalhando 👨‍💻
+🇧🇷 Vivendo em Santana de Parnaíba, São Paulo, Brasil.
 
-Sou estagiário e estou trabalhando com ReactJS, desenvolvendo sistemas Web.
+### Quais tecnologias eu trabalho? 👨‍💻
 
-🚀 Produzo conteúdos para o meu [blog](https://felipesuri.com) e sou entusíasta de moedas digitais.
+Trabalho atualmente com Vue.js, ReactJS, ReactNative e NodeJS. Minha maior especialização está sendo no front-end nesse momento.
+
+🚀 Produzo conteúdos para o meu [blog](https://felipesuri.com).
 
 ### Me encontre pela internet 🌎
 
-🚀 [Site](https://felipesuri.com) <br>
-🐦 [Twitter](https://twitter.com/_felipesuri) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/felipesuri/) <br>
+🚀 [Site](https://felipesuri.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/felipesuri/)
